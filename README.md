@@ -4,6 +4,7 @@ code for the paper:
 **[AVSD][1]**
 Huda Alamri, Vincent Cartillier, Abhishek Das, Jue Wang, Stefan Lee, Peter Anderson, Irfan Essa, Devi Parikh, Dhruv Batra, Anoop Cherian, Tim K. Marks, Chiori Hori
 
+duplicate repo. from: https://github.com/batra-mlp-lab/avsd
 
 website:
 [video-dialog.com][3]

@@ -38,29 +38,12 @@ conda activate avsd
 
 ## If you find this code useful in your research, please consider citing:
 ```
-@article{DBLP:journals/corr/abs-1901-09107,
-  author    = {Huda Alamri and
-               Vincent Cartillier and
-               Abhishek Das and
-               Jue Wang and
-               Stefan Lee and
-               Peter Anderson and
-               Irfan Essa and
-               Devi Parikh and
-               Dhruv Batra and
-               Anoop Cherian and
-               Tim K. Marks and
-               Chiori Hori},
-  title     = {Audio-Visual Scene-Aware Dialog},
-  journal   = {CoRR},
-  volume    = {abs/1901.09107},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1901.09107},
-  archivePrefix = {arXiv},
-  eprint    = {1901.09107},
-  timestamp = {Sat, 02 Feb 2019 16:56:00 +0100},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1901-09107},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{alamri2019audio,
+  title={Audio visual scene-aware dialog},
+  author={Alamri, Huda and Cartillier, Vincent and Das, Abhishek and Wang, Jue and Cherian, Anoop and Essa, Irfan and Batra, Dhruv and Marks, Tim K and Hori, Chiori and Anderson, Peter and others},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={7558--7567},
+  year={2019}
 }
 ```
 
